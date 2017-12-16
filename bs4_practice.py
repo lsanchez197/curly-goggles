@@ -1,5 +1,7 @@
 # Practice scraping data using bs4
 #
+# https://www.dataquest.io/blog/web-scraping-tutorial-python/
+#
 # Lacey Sanchez
 
 
